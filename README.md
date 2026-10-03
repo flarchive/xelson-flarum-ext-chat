@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of xelson/flarum-ext-chat.** Not for installation: use [Packagist](https://packagist.org/packages/xelson/flarum-ext-chat) or the [upstream repository](https://github.com/Xelson/flarum-ext-chat).
 
-**0** versions archived · Latest: [`v1.1.5`](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v1.1.5) · License: `MIT` · Flarum: `^1.0`
+**45** versions archived · Latest: [`v1.1.5`](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v1.1.5) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v0.1.1) |
+| `0.1.10` | 2016-05-18 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v0.1.10) |
+| `0.1.2` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v0.1.2) |
+| `0.1.3` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v0.1.3) |
+| `0.1.4` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v0.1.4) |
+| `0.1.5` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v0.1.5) |
+| `0.1.6` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v0.1.6) |
+| `0.1.7` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v0.1.7) |
+| `0.1.8` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/xelson-flarum-ext-chat/tree/archive/v0.1.8) |
+
+[View all 45 versions](https://github.com/flarchive/xelson-flarum-ext-chat/tags)
 
 Catalog entry: [packages/xelson-flarum-ext-chat.json](https://github.com/flarchive/archive-index/blob/main/packages/xelson-flarum-ext-chat.json)
 
